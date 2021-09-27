@@ -188,4 +188,4 @@ Resources:
           BucketMacie:
             Fn::Join:
               - '-'
-              - ['macie-data', !Ref "AWS::AccountId", !Ref "AWS::Region"]
+              - ['sandbox-macie-test', !Ref "AWS::AccountId", !Ref "AWS::Region"]
