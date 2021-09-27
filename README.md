@@ -5,4 +5,4 @@ From https://github.com/aws-samples/amazon-macie-demo-with-sample-data
 
 # sample badges
 
-![Security Headers](https://img.shields.io/security-headers?label=app.pulsifi.me&style=plastic&url=https%3A%2F%2Fapp.pulsifi.me)
+![Security Headers](https://img.shields.io/security-headers?label=app.pulsifi.me%20securityheaders&style=plastic&url=https%3A%2F%2Fapp.pulsifi.me)
